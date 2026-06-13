@@ -112,7 +112,7 @@ The platform uses college email restriction (`@college.edu` domain — change `N
 |------|-------|----------|
 | Student | `aarav@college.edu` | `password123` |
 | Team Leader | `priya@college.edu` | `password123` |
-| Admin | `admin@college.edu` | `password123` |
+
 
 ---
 
